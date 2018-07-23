@@ -1,0 +1,9 @@
+{
+    "env": {
+        "PATH":"D:/Anaconda3/envs/tensorflow/python.exe;%PATH%"
+    },
+    "shell_cmd": "D:/Anaconda3/envs/tensorflow/python -u \"$file\"",
+    "file_regex": "^[ ]*File \"(...*?)\", line ([0-9]*)",
+    "selector": "source.python",
+    "encoding": "utf-8"
+}

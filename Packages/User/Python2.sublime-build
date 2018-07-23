@@ -1,0 +1,9 @@
+{
+    "env": {
+        "PATH":"D:/Anaconda2/python.exe;%PATH%"
+    },
+    "shell_cmd": "python2 -u \"$file\"",
+    "file_regex": "^[ ]*File \"(...*?)\", line ([0-9]*)",
+    "selector": "source.python",
+    "encoding": "utf-8"
+}
