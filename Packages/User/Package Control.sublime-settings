@@ -10,8 +10,10 @@
 	"installed_packages":
 	[
 		"Anaconda",
+		"CoolFormat",
 		"FileHeader",
 		"Package Control",
-		"PackageResourceViewer"
+		"PackageResourceViewer",
+		"SublimeREPL"
 	]
 }
