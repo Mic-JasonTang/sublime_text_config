@@ -1,10 +1,11 @@
 {
 	"caret_style": "phase",
 	"color_scheme": "Monokai.sublime-color-scheme",
+	"dpi_scale": 1.3,
 	"draw_white_space": "all",
 	"ensure_newline_at_eof_on_save": true,
 	"font_face": "YaHei Consolas Hybrid",
-	"font_size": 15,
+	"font_size": 17,
 	"highlight_line": true,
 	"highlight_modified_tabs": true,
 	"ignored_packages":
@@ -17,5 +18,6 @@
 		100
 	],
 	"save_on_focus_lost": true,
+	"theme": "Default.sublime-theme",
 	"trim_trailing_white_space_on_save": true
 }
